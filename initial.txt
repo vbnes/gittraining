@@ -1,0 +1,6 @@
+Some text for anything a trainig of git repository
+1 git init
+it s gone a hidden folder .git
+2 git status
+
+3git add . - add all content
